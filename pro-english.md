@@ -22,12 +22,10 @@
  ```
 #include <iostream>
 using namespace std;
-main()
-
-{
+main(){
    cout << "Hello World"; 
    return 0;
-    }
+}
 ```  
 
 **这是区块：**
