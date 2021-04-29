@@ -33,4 +33,18 @@
 
 **这是外部网页内的图像：**  
 
-![luoji 图标](https://img2.baidu.com/it/u=1852204177,279969493&fm=26&fmt=auto&gp=0.jpg)
+<img src="https://img2.baidu.com/it/u=1852204177,279969493&fm=26&fmt=auto&gp=0.jpg" width=40%> 
+
+**这是代码：**  
+`#include <iostream>`
+
+`using namespace std; ` 
+
+`main(){`  
+
+`   cout << "Hello World";`  
+   
+`   return 0;`  
+   
+`}`  
+
