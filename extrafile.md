@@ -1,11 +1,11 @@
 # 这是额外的代码文件
 
-[点此跳转到readme文件](https://github.com/David-Ttao/zhangyupeng/blob/main/README.md)  
+## [点此跳转到readme文件](https://github.com/David-Ttao/zhangyupeng/blob/main/README.md)  
 
-[点此跳转到pro-engish文件(里面是作业内容)](https://github.com/David-Ttao/zhangyupeng/blob/main/pro-english.md)  
+## [点此跳转到pro-engish文件(里面是作业内容)](https://github.com/David-Ttao/zhangyupeng/blob/main/pro-english.md)  
 
 
-## 冒泡排序算法
+#### 冒泡排序算法
 
 ```  
 #include<iostream>
