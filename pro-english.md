@@ -36,7 +36,7 @@
 <img src="https://img2.baidu.com/it/u=1852204177,279969493&fm=26&fmt=auto&gp=0.jpg" width=40%> 
 
 **这是代码：**  
-```#include <iostream>
+ ```#include <iostream>
 
 using namespace std;
 
@@ -48,7 +48,10 @@ main()
 
    return 0;
 
-}```  
+    }
+```
+
+
 
 **符号列表：**  
 
@@ -58,6 +61,8 @@ main()
 
 **编号列表：**  
 
-1.第一
-2.第二
-3.第三
+1.第一  
+
+3.第二  
+
+5.第三
