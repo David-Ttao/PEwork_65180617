@@ -27,5 +27,10 @@
 ***  
   
 
-**这是内部目录image的图像：** 
-<img src="https://github.com/David-Ttao/zhangyupeng/blob/main/image/image1.jpg" width=40%>
+**这是内部目录image的图像：**   
+
+<img src="https://github.com/David-Ttao/zhangyupeng/blob/main/image/image1.jpg" width=40%>  
+
+**这是外部网页内的图像：**  
+
+![luoji 图标](https://img2.baidu.com/it/u=1852204177,279969493&fm=26&fmt=auto&gp=0.jpg)
