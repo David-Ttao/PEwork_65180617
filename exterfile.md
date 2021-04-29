@@ -1,32 +1,32 @@
 # 这是额外的代码文件
-## 随便找的代码哦
+
+[点此跳转到readme文件](https://github.com/David-Ttao/zhangyupeng/blob/main/README.md)  
+
+[点此跳转到pro-engish文件(里面是作业内容)](https://github.com/David-Ttao/zhangyupeng/blob/main/pro-english.md)  
+
+
+## 冒泡排序算法
 
 ```  
 #include<iostream>
 using namespace std;
  
-void print(int arr[], int n)
-{  
-   for(int j= 0; j<n; j++)
-    {  
+void print(int arr[], int n){  
+   for(int j= 0; j<n; j++){  
       cout<<arr[j] <<"  ";  
     }  
       cout<<endl;  
 }  
  
-void BubbleSort(int arr[], int n)
-{
-    for (int i = 0; i < n - 1; i++)
-	{
-       for (int j = 0; j < n - i - 1; j++)
-	       {
-            if (arr[j] > arr[j + 1]) 
-		        	{
+void BubbleSort(int arr[], int n){
+    for (int i = 0; i < n - 1; i++){
+       for (int j = 0; j < n - i - 1; j++){
+            if (arr[j] > arr[j + 1]){
                  int temp = arr[j];
                  arr[j] = arr[j + 1];
                  arr[j + 1] = temp;
-              }
-         }
+            }
+       }
    }
 }
 int main()
