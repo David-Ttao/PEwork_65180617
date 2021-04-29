@@ -6,7 +6,7 @@
 
 这是外部链接  [百度](www.baidu.com)  
 
-这是内部链接，点我跳转到readme(README.md)
+这是内部链接，点我跳转到readme(https://github.com/David-Ttao/zhangyupeng/edit/main/README.md)
 
 
 ~~这是删除线~~  
