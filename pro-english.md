@@ -4,10 +4,11 @@
 这是二级标题：专业英语作业：张宇鹏
 -----------------------
 
-这是外部链接  [百度](https://www.baidu.com)  
+### 这是外部链接  [百度](https://www.baidu.com)  
 
-[这是内部链接，点我跳转到readme](https://github.com/David-Ttao/zhangyupeng/blob/main/README.md)
-  
+#### [这是内部链接，点我跳转到readme](https://github.com/David-Ttao/zhangyupeng/blob/main/README.md)  
+
+#### [这是内部链接，点我跳转到额外的代码文件](https://github.com/David-Ttao/zhangyupeng/blob/main/extrafile.md)  
   
 **这是内部目录image的图像：**   
 
